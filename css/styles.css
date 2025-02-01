@@ -717,9 +717,6 @@ button {
   margin-bottom: 24px;
 }
 .chek-container-visual {
-  display: flex;
-  align-items: center;
-
   cursor: pointer;
   font-family: 'Roboto', sans-serif;
   font-weight: 400;
